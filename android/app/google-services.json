@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518785132781",
+    "project_id": "roollyapp",
+    "storage_bucket": "roollyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518785132781:android:0f48d331ca1f7103da84e4",
+        "android_client_info": {
+          "package_name": "com.uppue.roolly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518785132781-9d6dgfmsdl2c8tuet3ri0763gdou8ng0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLCJn6RNuc-7u8vexS3_JZspB5Tc23cEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518785132781-9d6dgfmsdl2c8tuet3ri0763gdou8ng0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
